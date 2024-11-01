@@ -2,8 +2,6 @@
 
 # Laravel Movies Example
 
-Demo URL: https://movies.andredemos.ca
-
 ## Installation
 
 1. Clone the repo and `cd` into it
